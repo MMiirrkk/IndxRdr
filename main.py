@@ -95,7 +95,7 @@ def build_list(goods):
 def build_chart(update_data=False):
     '''
     Get new data from bankier.pl, merge
-    with old data and build chart.
+    with old data and build chart. All good.
     '''
     t_1 = time.time()
     all_goods = [
